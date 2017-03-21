@@ -4,7 +4,6 @@
  * and open the template in the editor.
  */
 package spp.pkg404teamnotfound.p2.problema5;
-import java.util.Arrays;
 import java.util.Scanner;
 /**
  *
