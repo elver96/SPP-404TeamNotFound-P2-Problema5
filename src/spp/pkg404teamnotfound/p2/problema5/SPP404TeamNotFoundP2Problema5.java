@@ -1,8 +1,10 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+Elver Iram Jiménez Rodríguez A01196327
+Luis Mario de Leija Piñón         A01410385
+Luis  Montiel Rocha                 A01410588
+Pablo Serrano Hernandez        A01410753
+Rubén Daniel Baez Muñíz        A01411504
+*/
 package spp.pkg404teamnotfound.p2.problema5;
 import java.util.Scanner;
 /**
